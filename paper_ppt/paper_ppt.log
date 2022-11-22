@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7 32-bit) (preloaded format=xelatex 2022.5.18)  15 SEP 2022 08:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7 32-bit) (preloaded format=xelatex 2022.5.18)  22 NOV 2022 13:22
 entering extended mode
 **./paper_ppt.tex
 (paper_ppt.tex
@@ -1818,7 +1818,7 @@ Package logreq Info: Writing requests to 'paper_ppt.run.xml'.
 Here is how much of TeX's memory you used:
  39036 strings out of 411278
  804747 string characters out of 2836157
- 1611830 words of memory out of 3000000
+ 1611829 words of memory out of 3000000
  58693 multiletter control sequences out of 15000+600000
  428093 words of font info for 158 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
